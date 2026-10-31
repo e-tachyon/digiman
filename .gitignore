@@ -1,0 +1,11 @@
+#ignore db file when commiting
+database/songDB.db
+
+#ignore output file
+zig-out/
+
+#vscode
+.vscode
+
+#zig cache
+.zig-cache/
